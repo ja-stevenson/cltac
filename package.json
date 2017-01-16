@@ -1,0 +1,23 @@
+{
+  "name": "cltac",
+  "version": "1.0.0",
+  "description": "command line tic tac toe",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ja-stevenson/cltac.git"
+  },
+  "author": "Jimmy Stevenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ja-stevenson/cltac/issues"
+  },
+  "homepage": "https://github.com/ja-stevenson/cltac#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
